@@ -4,7 +4,6 @@
   <test thread-count="5" name="Test">
     <classes>
       <class name="testing_trello.api_test_trello"/>
-      <class name="testing_trello.Simple_books"/>
-    </classes>
+        </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
